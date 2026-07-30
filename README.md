@@ -1,2 +1,2 @@
 # leetcode-problems
-Daily 1 LeetCode Problem
+Weekly 1 LeetCode problem.
